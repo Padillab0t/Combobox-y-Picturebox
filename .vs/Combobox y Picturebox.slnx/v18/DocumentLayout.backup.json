@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO-30\\source\\repos\\Combobox y Picturebox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E1947-89CE-41B3-982A-36C769C21476}|Combobox y Picturebox\\Combobox y Picturebox.csproj|c:\\users\\alumno-30\\source\\repos\\combobox y picturebox\\combobox y picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE7E1947-89CE-41B3-982A-36C769C21476}|Combobox y Picturebox\\Combobox y Picturebox.csproj|solutionrelative:combobox y picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E1947-89CE-41B3-982A-36C769C21476}|Combobox y Picturebox\\Combobox y Picturebox.csproj|c:\\users\\alumno-30\\source\\repos\\combobox y picturebox\\combobox y picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7E1947-89CE-41B3-982A-36C769C21476}|Combobox y Picturebox\\Combobox y Picturebox.csproj|solutionrelative:combobox y picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNO-30\\source\\repos\\Combobox y Picturebox\\Combobox y Picturebox\\Form1.cs",
+              "RelativeDocumentMoniker": "Combobox y Picturebox\\Form1.cs",
+              "ToolTip": "C:\\Users\\ALUMNO-30\\source\\repos\\Combobox y Picturebox\\Combobox y Picturebox\\Form1.cs",
+              "RelativeToolTip": "Combobox y Picturebox\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:47:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ALUMNO-30\\source\\repos\\Combobox y Picturebox\\Combobox y Picturebox\\Form1.cs",
+              "RelativeDocumentMoniker": "Combobox y Picturebox\\Form1.cs",
+              "ToolTip": "C:\\Users\\ALUMNO-30\\source\\repos\\Combobox y Picturebox\\Combobox y Picturebox\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Combobox y Picturebox\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:43:19.68Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

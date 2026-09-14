@@ -1,0 +1,16 @@
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\bin\Debug\net10.0-windows\Combobox y Picturebox.exe
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\bin\Debug\net10.0-windows\Combobox y Picturebox.deps.json
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\bin\Debug\net10.0-windows\Combobox y Picturebox.runtimeconfig.json
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\bin\Debug\net10.0-windows\Combobox y Picturebox.dll
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\bin\Debug\net10.0-windows\Combobox y Picturebox.pdb
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox_y_Picturebox.Form1.resources
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.csproj.GenerateResource.cache
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.AssemblyInfoInputs.cache
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.AssemblyInfo.cs
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.dll
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\refint\Combobox y Picturebox.dll
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.pdb
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\Combobox y Picturebox.genruntimeconfig.cache
+C:\Users\ALUMNO-30\source\repos\Combobox y Picturebox\Combobox y Picturebox\obj\Debug\net10.0-windows\ref\Combobox y Picturebox.dll
