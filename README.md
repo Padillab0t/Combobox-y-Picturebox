@@ -1,4 +1,4 @@
 # Combobox-y-Picturebox
 Trabajo de clase
 <br>
-<img width="220" alt="gif" src="https://github.com/user-attachments/assets/c337c4ff-e3ca-40c2-bcc2-b9358623dde0" />
+![image](https://github.com/user-attachments/assets/c337c4ff-e3ca-40c2-bcc2-b9358623dde0)
